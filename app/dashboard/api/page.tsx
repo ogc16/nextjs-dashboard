@@ -1,4 +1,4 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
+/*import type { NextApiRequest, NextApiResponse } from 'next';
 
 const customers = [
   { id: 1, name: 'John Doe', email: 'john@example.com' },
@@ -7,4 +7,4 @@ const customers = [
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   res.status(200).json(customers);
-}
+}*/
